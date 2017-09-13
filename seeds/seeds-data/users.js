@@ -9,6 +9,6 @@ module.exports = [
   {
     "username": "mario",
     "email": "mario@nintendo.com",
-    "password": bcrypt.hashSync("luigi", 3)
+    "password": bcrypt.hashSync("luigis", 3)
   }
 ];
