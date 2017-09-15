@@ -11,5 +11,9 @@ module.exports = [
   {
     'article_id': 5,
     'playlist_id': 1
+  },
+  {
+    'article_id': 6,
+    'playlist_id': 2
   }
 ];
